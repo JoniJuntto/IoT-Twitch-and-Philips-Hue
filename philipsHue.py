@@ -1,6 +1,6 @@
 from phue import Bridge
 from playsound import playsound
-bridge_ip_address = '192.168.1.103'
+bridge_ip_address = 'xxx.xxx.x.xxx'
 b = Bridge(bridge_ip_address)
 
 
