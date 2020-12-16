@@ -7,7 +7,7 @@ from philipsHue import lightsOn
 class Bot(commands.Bot):
 
     def __init__(self):
-        super().__init__(irc_token='oauth:vjfu9jwavk2080hoyl00g3bzq9yqae', client_id='xv6drp3r9u7k03lca7cmp7yw33i51i',
+        super().__init__(irc_token='oauth:XXXXXX', client_id='XXXXXX',
                          nick='kiukkuDoggo', prefix='!',
                          initial_channels=['huikkastriimi'])
 
